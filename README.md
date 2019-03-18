@@ -30,4 +30,4 @@ _No known bugs._
 MIT
 **
 
-Copyright (c) 2019 **_Olha Wysocky_**
+Copyright (c) 2019 **_Olha Wysocky, Pavel Zanchuk_**
